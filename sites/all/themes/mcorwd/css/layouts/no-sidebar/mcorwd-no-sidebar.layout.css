@@ -21,11 +21,11 @@ img, video {
 /* No files to import found in abstractions/**\/* */
 /* No files to import found in base/**\/* */
 /* No files to import found in components/**\/* */
-/* line 14, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+/* line 12, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
 .field--name-body p {
   margin: 5% 5%; }
 
-/* line 18, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+/* line 16, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
 .l-header {
   /* for IE 6/7 */
   *zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).style.cssText="clear:both;font:0/0 serif");
@@ -41,17 +41,17 @@ img, video {
   .l-header:after {
     clear: both; }
 
-/* line 22, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+/* line 20, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
 .l-branding {
   width: 100%;
   height: 100px;
   display: block; }
 
-/* line 28, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+/* line 26, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
 .l-region--sidebar-first {
   display: none; }
 
-/* line 32, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+/* line 30, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
 .l-main {
   /* for IE 6/7 */
   *zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).style.cssText="clear:both;font:0/0 serif");
@@ -67,13 +67,13 @@ img, video {
   .l-main:after {
     clear: both; }
 
-/* line 36, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+/* line 34, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
 .footer p {
   margin: 0% 5%; }
 
 @media (min-width: 44em) {
   width: 44em;
-  /* line 42, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+  /* line 40, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
   .field--name-body p {
     margin: 5% 5%; }
 
@@ -82,7 +82,7 @@ img, video {
   @include clearfix;
   }
   */
-  /* line 51, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+  /* line 49, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
   .node--page {
     width: 100%;
     float: right;
@@ -90,16 +90,16 @@ img, video {
     margin-right: 0;
     clear: none; }
 
-  /* line 55, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+  /* line 53, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
   h1 {
     display: none; }
 
-  /* line 59, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+  /* line 57, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
   .footer p {
     margin: 0% 5%; } }
 @media (min-width: 77em) {
   width: 77em;
-  /* line 66, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
+  /* line 64, ../../../sass/layouts/no-sidebar/mcorwd-no-sidebar.layout.scss */
   .node--page {
     width: 100%;
     float: right;

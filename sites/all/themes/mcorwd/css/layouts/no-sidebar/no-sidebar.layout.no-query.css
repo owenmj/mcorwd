@@ -773,6 +773,30 @@ p.headline {
   margin-bottom: 28px; }
 
 /* line 189, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home {
+  background-color: #FFE9E8;
+  border-radius: 11px;
+  height: 300px;
+  margin-bottom: 40px; }
+
+/* line 196, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home h2.block__title {
+  margin-right: 12px;
+  margin-bottom: 8px;
+  margin-left: 12px;
+  font-size: 1em;
+  text-transform: none; }
+
+/* line 204, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home li.views-row {
+  list-style-type: none; }
+
+/* line 208, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home .views-field-field-comment .field-content p {
+  font-size: 13px;
+  text-transform: none; }
+
+/* line 213, ../../../sass/components/blocks/_block-background.scss */
 .ten-top-tips-text-right {
   background-image: url("../../../images/arrow-right.png");
   background-repeat: no-repeat;
@@ -782,11 +806,11 @@ p.headline {
   float: left;
   margin-top: 15px; }
 
-/* line 199, ../../../sass/components/blocks/_block-background.scss */
+/* line 223, ../../../sass/components/blocks/_block-background.scss */
 .ten-top-tips-text-right p {
   color: #fff; }
 
-/* line 203, ../../../sass/components/blocks/_block-background.scss */
+/* line 227, ../../../sass/components/blocks/_block-background.scss */
 .arrow-down-text {
   background-image: url("../../../images/arrow-down.png");
   background-repeat: no-repeat;
@@ -795,13 +819,17 @@ p.headline {
   margin-top: 0px;
   height: 140px; }
 
-/* line 212, ../../../sass/components/blocks/_block-background.scss */
+/* line 236, ../../../sass/components/blocks/_block-background.scss */
 .arrow-down-text p {
   color: #fff; }
 
-/* line 216, ../../../sass/components/blocks/_block-background.scss */
+/* line 240, ../../../sass/components/blocks/_block-background.scss */
 .chris-photo {
   margin-top: 20em; }
+
+/* line 244, ../../../sass/components/blocks/_block-background.scss */
+front h2.page-title {
+  font-size: 16px; }
 
 /**
  * $USER-MENU
@@ -2180,6 +2208,30 @@ p.headline {
   margin-bottom: 28px; }
 
 /* line 189, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home {
+  background-color: #FFE9E8;
+  border-radius: 11px;
+  height: 300px;
+  margin-bottom: 40px; }
+
+/* line 196, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home h2.block__title {
+  margin-right: 12px;
+  margin-bottom: 8px;
+  margin-left: 12px;
+  font-size: 1em;
+  text-transform: none; }
+
+/* line 204, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home li.views-row {
+  list-style-type: none; }
+
+/* line 208, ../../../sass/components/blocks/_block-background.scss */
+.testimonials-home .views-field-field-comment .field-content p {
+  font-size: 13px;
+  text-transform: none; }
+
+/* line 213, ../../../sass/components/blocks/_block-background.scss */
 .ten-top-tips-text-right {
   background-image: url("../../../images/arrow-right.png");
   background-repeat: no-repeat;
@@ -2189,11 +2241,11 @@ p.headline {
   float: left;
   margin-top: 15px; }
 
-/* line 199, ../../../sass/components/blocks/_block-background.scss */
+/* line 223, ../../../sass/components/blocks/_block-background.scss */
 .ten-top-tips-text-right p {
   color: #fff; }
 
-/* line 203, ../../../sass/components/blocks/_block-background.scss */
+/* line 227, ../../../sass/components/blocks/_block-background.scss */
 .arrow-down-text {
   background-image: url("../../../images/arrow-down.png");
   background-repeat: no-repeat;
@@ -2202,13 +2254,17 @@ p.headline {
   margin-top: 0px;
   height: 140px; }
 
-/* line 212, ../../../sass/components/blocks/_block-background.scss */
+/* line 236, ../../../sass/components/blocks/_block-background.scss */
 .arrow-down-text p {
   color: #fff; }
 
-/* line 216, ../../../sass/components/blocks/_block-background.scss */
+/* line 240, ../../../sass/components/blocks/_block-background.scss */
 .chris-photo {
   margin-top: 20em; }
+
+/* line 244, ../../../sass/components/blocks/_block-background.scss */
+front h2.page-title {
+  font-size: 16px; }
 
 /**
  * $USER-MENU
